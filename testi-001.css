@@ -1,0 +1,22 @@
+body {
+  background-image: url("my_background_image.jpg");
+  background-color: grey;
+}
+/*
+
+h1 kommentti
+
+*/
+h1.very_important_header {
+  color: blue; font-weight: bold;
+  margin: 15px 0px 5px 0px;
+  border: 2px solid black;
+  width:1000px; /*Change this to whatever value that you want*/
+  text-align: center;
+}
+h2.less_important_header {
+  color: red;
+}
+a img {
+  border-style: none;
+}
